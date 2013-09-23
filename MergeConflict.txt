@@ -1,4 +1,9 @@
+<<<<<<< danielsecondownbranch
 
+=======
+Jane and Joe
+>>>>>>> 4fb2c83 lab1.3 first mergefile
+Jane and Joe
 John goes to the hill
 Blue Hat, Purple Hat
 
